@@ -306,3 +306,20 @@ playwright:
 doppler:
   - doppler.com
   - "*.doppler.com"
+
+# Sanity (CMS API)
+sanity:
+  - "*.sanity.io"
+  - "*.sanity.work"
+  - sanity.io
+  - sanity.work
+
+# Shopify (Development)
+shopify:
+  - shopify.com
+  - "*.shopify.com"
+  - "*.myshopify.com"
+  - "*.shopify.dev"
+  - "*.shopifycdn.com"
+  - "*.trycloudflare.com"
+  - "*.cfargotunnel.com"
