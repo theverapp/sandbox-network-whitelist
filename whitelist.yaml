@@ -315,5 +315,15 @@ sanity:
   - sanity.io
   - sanity.work
 
+# Shopify (Development)
+shopify:
+  - shopify.com
+  - "*.shopify.com"
+  - "*.myshopify.com"
+  - "*.shopify.dev"
+  - "*.shopifycdn.com"
+  - "*.trycloudflare.com"
+  - "*.cfargotunnel.com"
+
 mesa:
   - "*.mesa.dev"
